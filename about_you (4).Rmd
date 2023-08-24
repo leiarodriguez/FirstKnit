@@ -1,0 +1,84 @@
+---
+title: "First Knit"
+author: leia rodriguez
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+    toc_depth: 5
+date: "`r Sys.Date()`"   
+---
+
+# A Little Survey
+
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
+
+## A short history of you.  
+Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+  
+i graduated from quartz hill highschool and i find english more easy than math because i like writing.     
+  
+
+     
+
+
+## Your computer and your and its capability?  
+ For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
+
+i have a apple laptop and im a 5 in the total dummy scale. the internet where i live is pretty good.   
+  
+   
+
+## Others and You?   
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
+
+i perfered to be called my real name leia rodriguez and i would like my classmate to respect that.     
+  
+   
+ 
+
+
+
+
+## Aspirations?   
+What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+
+i want to achieve my life goal to become a phyiscal thearpist. the subject that could become in my best intrest is is keniseology and im trying to get my associates for now.    
+  
+   
+ 
+
+
+
+
+## Past adventures?  
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+
+i have never gon to a foreign country but if i ever get the opportunity to i would go to spain which is where im from. i am not in the military if i would choose army because of the benifets.     
+  
+   
+  
+
+
+
+
+## Why are you taking Statistics?  
+Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
+What grade do you need to attain in stats to not upset your future plans, What is your plan?  
+ 
+
+i am taking statusticts 115 because it is one of my requirments and and i plan on getting a grade higher then average.       
+  
+   
+ 
+
+
+
+
+
+
+  
+
+
+
+
